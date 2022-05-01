@@ -1,12 +1,12 @@
-# Hi there! I'm Andre  👋 
+# Hi there! I'm Andre  👋 😄
 
 
-## I'm a Computer Science student and DevOps enthusiast!!
+## I'm a Computer Science student and DevOps enthusiast! 
 
-- 🛠 I’m currently studying DevOps 
-- 📖 Learning the fundamentals of Kubernetes, Docker, Jenkins & Linux Administration 
-- 🥅 2022 Goals: get a DevOps internship!
-- ⚡ Fun fact: I love traveling and cycling 🌎🚴
+- 🛠 I’m currently studying DevOps technologies 🧑‍💻
+- 📖 Learning the fundamentals of Kubernetes, Docker, Jenkins & Linux Administration 📚
+- 🎯 2022 Goals: get a DevOps internship! 💫
+- ⚡ Fun fact: I love traveling and cycling 🌎
 
 
 
@@ -37,5 +37,5 @@
 ---
 
 [website]: https://www.linkedin.com/in/andrelouiz/
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/andrelouiz/
