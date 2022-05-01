@@ -5,7 +5,7 @@
 
 - 🧑‍💻 Currently studying DevOps technologies 🛠 
 - 📖 Learning the fundamentals of Kubernetes, Docker, Jenkins & Linux Administration 📚
-- 🎯 2022 Goals: get a DevOps internship! 💫
+- 🎯 2022 Goals: DevOps internship! 💫
 - 🌎 Fun fact: I love traveling and cycling 🚴
  
 ### Connect with me:
