@@ -9,7 +9,7 @@
 - 🌎 Fun fact: I love traveling and cycling 🚴
  
 ### Connect with me:
-<a href="https://www.computerhope.com/">
+<a href="https://www.linkedin.com/in/andrelouiz/">
  <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
 
 <br/> 
