@@ -3,7 +3,7 @@
 
 ## A Computer Science student and DevOps enthusiast! 
 
-- 🛠 Currently studying DevOps technologies 🧑‍💻
+- 🧑‍💻Currently studying DevOps technologies 🛠 
 - 📖 Learning the fundamentals of Kubernetes, Docker, Jenkins & Linux Administration 📚
 - 🎯 2022 Goals: get a DevOps internship! 💫
 - 🌎 Fun fact: I love traveling and cycling 🚴
