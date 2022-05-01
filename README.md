@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-
+[!website] <i class="devicon-linkedin-plain colored"></i>
 
 ### Languages and Tools:
 <img align="left" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;"/>  
